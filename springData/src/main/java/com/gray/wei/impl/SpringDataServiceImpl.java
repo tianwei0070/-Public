@@ -31,7 +31,7 @@ public class SpringDataServiceImpl implements SpringDataService {
 	private TeacherPagingAndSortRespository teacherPagingAndSortRespository;
 
 	/**
-	 * 根据id进行修改老师的名字
+	 * 根据id进行修改老师的名字()
 	 * 
 	 * @param name
 	 * @param id
