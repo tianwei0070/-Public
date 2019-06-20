@@ -1,0 +1,10 @@
+com\gray\wei\repository\teacher\TeacherCrudRespository.class
+com\gray\wei\impl\SpringDataServiceImpl.class
+com\gray\wei\filter\SdFilter.class
+com\gray\wei\bean\Teacher.class
+com\gray\wei\ctrl\TestCtrl.class
+com\gray\wei\service\SpringDataService.class
+com\gray\wei\repository\teacher\TeacherRepository.class
+com\gray\wei\repository\teacher\TeacherPagingAndSortRespository.class
+com\gray\wei\repository\teacher\TeacherJpaSpecificationExecutorRepository.class
+com\gray\wei\repository\teacher\TeacherJpaRepository.class
